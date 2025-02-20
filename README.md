@@ -4,8 +4,8 @@ Bu, HTML, CSS ve Font Awesome kullanılarak oluşturulmuş kişisel bir portföy
 
 ## Özellikler:
 - **Navigasyon Menüsü**: Ana Sayfa, Hakkında, Hizmetler, Portföy ve İletişim bölümlerine linkler.
-- **Ana Sayfa Bölümü**: Emrecan Yerlikaya'nın tanıtımı ve profesyonel geçmişi.
-- **Hakkında Bölümü**: Emrecan'ın becerileri ve deneyimi hakkında bilgi.
+- **Ana Sayfa Bölümü**: Hakkında özet bilgisi.
+- **Hakkında Bölümü**: Beceriler ve deneyim hakkında bilgi.
 - **Hizmetler Bölümü**: Web Tasarımı, Web Geliştirme ve Mobil Geliştirme dahil olmak üzere sunulan hizmetler.
 - **Portföy Bölümü**: Çeşitli projeler ve daha fazla bilgi için bağlantılar.
 - **İletişim Bölümü**: Direkt olarak iletişime geçmek için bir form.
